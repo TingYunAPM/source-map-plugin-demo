@@ -1,0 +1,13 @@
+[base]
+# 上传地址
+beacon="https://wukong1.tingyun.com"
+# 产品类型
+product_type="web"
+# 应用名称(可选, 标识作用)
+app_name="WebpackPlugin-demo-vue"
+# 应用token
+app_token="c21d0df567ad47d4a399664ba99338cd"
+
+[auth]
+# 账号token
+token="42d6f9bc124fc2a5774eb76bc4231a925787f053235da7d43904ca3d73f06c1057a552bd2f2d0f5e0b378b0d1be0b43b2f94fd3e588d976c8f497be138eebe5f"
